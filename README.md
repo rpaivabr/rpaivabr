@@ -1,5 +1,5 @@
 <a href="https://storyset.com/technology">
-  <img src="/Programmer.gif.svg" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador ">
+  <img src="/Programmer.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador ">
   Illustration by Freepik Storyset
 </a>
 
