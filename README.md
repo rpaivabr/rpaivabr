@@ -44,7 +44,8 @@
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-paiva-de-oliveira-210087a7/" /></a>
 
   <a href="https://api.whatsapp.com/send?phone=5519997646554&text=Olá%20Rafael,%20tudo%20bem?" alt="WhatsApp">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5519997646554&text=Olá%20Rafael,%20tudo%20bem?"/></a>
+    https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5519997646554&text=Olá%20Rafael,%20tudo%20bem?"/></a>
 
   <a href="https://www.facebook.com/rafael.paivadeoliveira" alt="Facebook">
   <img src="https://img.shields.io/badge/-Facebook-4267B2?style=flat-square&labelColor=4267B2&logo=facebook&logoColor=white&link=https://www.facebook.com/rafael.paivadeoliveira"/></a>
